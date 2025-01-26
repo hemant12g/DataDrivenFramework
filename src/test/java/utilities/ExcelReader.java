@@ -59,7 +59,7 @@ public class ExcelReader {
 		int number=sheet.getLastRowNum()+1;
 		return number;
 		}
-		
+		//get row counts
 	}
 	
 	
@@ -93,7 +93,7 @@ public class ExcelReader {
 		
 		if(cell==null)
 			return "";
-		
+		//return some cell value as null
 		if(cell.getCellType()==CellType.STRING)
 			  return cell.getStringCellValue();
 		else if(cell.getCellType()==CellType.NUMERIC || cell.getCellType()==CellType.FORMULA ){
