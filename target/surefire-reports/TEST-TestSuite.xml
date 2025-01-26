@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="4.011" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="LOGONSERVER" value="\\LAPTOP-TUN1U03P"/>
+    <property name="ALLURE_HOME" value="C:\Users\way2automation\scoop\apps\allure\current"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="PSModulePath" value="%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="LAPTOP-TUN1U03P"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="11.0.18"/>
+    <property name="JOB_NAME" value="DataDrivenOct2024"/>
+    <property name="COMPUTERNAME" value="LAPTOP-TUN1U03P"/>
+    <property name="ANDROID_HOME" value="C:\Users\way2automation\AppData\Local\Android\Sdk"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="user.name" value="way2automation"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 165 Stepping 2, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\way2automation\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/DataDrivenOct2024/4/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="12"/>
+    <property name="BUILD_TAG" value="jenkins-DataDrivenOct2024-4"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1 C:\Users\way2automation\.jenkins\war\WEB-INF\lib\remoting-3206.vb_15dcf73f6a_9.jar C:\Users\way2automation\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar C:\Users\way2automation\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar 51712"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="6d81bf5281b8b14f"/>
+    <property name="GameTurbo" value="C:\Program Files (x86)\ASUS\GameFirst\"/>
+    <property name="=D:" value="D:\softwares"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-11/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk-11\bin;D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin;C:\Users\way2automation\AppData\Local\Android\Sdk\platform-tools;C:\Users\way2automation\AppData\Local\Android\Sdk\tools;C:\Program Files\Git\cmd;D:\allure-commandline-2.15.0\allure-2.15.0\bin;C:\Users\way2automation\Desktop\chromedriver_win32\chromedriver.exe;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\way2automation\Downloads\Compressed\NUnit.Console-3.16.0\bin\;C:\Program Files\dotnet\;C:\Users\way2automation\scoop\shims;C:\Users\way2automation\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\way2automation\AppData\Local\Programs\Python\Python39\;C:\Users\way2automation\AppData\Local\Microsoft\WindowsApps;C:\Users\way2automation\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\way2automation\AppData\Roaming\npm;C:\Users\way2automation\.dotnet\tools"/>
+    <property name="java.io.tmpdir" value="C:\Users\WAY2AU~1\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\way2automation\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="GameFirstUserPath" value="C:\ProgramData\ASUS\GameFirst"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/DataDrivenOct2024/4/"/>
+    <property name="M2_HOME" value="D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="CI" value="true"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="6d81bf5281b8b14f"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\way2automation\.jenkins\workspace\DataDrivenOct2024@tmp"/>
+    <property name="MAVEN_HOME" value="D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1"/>
+    <property name="PLAYWRIGHT_JAVA_SRC" value="D:\workspaces\PlaywrightLearning\PlaywrightSeries"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\way2automation\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="MVN_HOME" value="D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1"/>
+    <property name="HOMEPATH" value="\Users\way2automation"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="BUILD_NUMBER" value="4"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven3.interceptor" value="C:\Users\way2automation\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1/bin;C:\Program Files\Java\jdk-11/bin;C:\Program Files\Java\jdk-11/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk-11\bin;D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1\bin;C:\Users\way2automation\AppData\Local\Android\Sdk\platform-tools;C:\Users\way2automation\AppData\Local\Android\Sdk\tools;C:\Program Files\Git\cmd;D:\allure-commandline-2.15.0\allure-2.15.0\bin;C:\Users\way2automation\Desktop\chromedriver_win32\chromedriver.exe;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\way2automation\Downloads\Compressed\NUnit.Console-3.16.0\bin\;C:\Program Files\dotnet\;C:\Users\way2automation\scoop\shims;C:\Users\way2automation\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\way2automation\AppData\Local\Programs\Python\Python39\;C:\Users\way2automation\AppData\Local\Microsoft\WindowsApps;C:\Users\way2automation\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\way2automation\AppData\Roaming\npm;C:\Users\way2automation\.dotnet\tools;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="com.w2a"/>
+    <property name="POM_ARTIFACTID" value="DataDrivenFramework"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/DataDrivenOct2024/"/>
+    <property name="OneDrive" value="C:\Users\way2automation\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/DataDrivenOct2024/4/display/redirect"/>
+    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="JENKINS_HOME" value="C:\Users\way2automation\.jenkins"/>
+    <property name="BUILD_ID" value="4"/>
+    <property name="TEMP" value="C:\Users\WAY2AU~1\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="a502"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\way2automation\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-TUN1U03P"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/DataDrivenOct2024/4/display/redirect?page=artifacts"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-11"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\way2automation"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/DataDrivenOct2024/display/redirect"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\way2automation"/>
+    <property name="USERNAME" value="way2automation"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="D:\workspaces\BatchAug2024Selenium\DataDrivenFramework"/>
+    <property name="maven.conf" value="D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\WAY2AU~1\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="11.0.18+9-LTS-195"/>
+    <property name="java.class.path" value="C:\Users\way2automation\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.14.jar;D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1\boot\plexus-classworlds-2.6.0.jar;D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="OneDriveConsumer" value="C:\Users\way2automation\OneDrive"/>
+    <property name="RlsSvcPort" value="22112"/>
+    <property name="WORKSPACE" value="C:\Users\way2automation\.jenkins\workspace\DataDrivenOct2024"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/DataDrivenOct2024/4/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="11.0.18+9-LTS-195"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-11/bin"/>
+    <property name="=ExitCode" value="C000013A"/>
+    <property name="user.country" value="IN"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="D:\softwares\apache-maven-3.8.1-bin\apache-maven-3.8.1"/>
+    <property name="JOB_BASE_NAME" value="DataDrivenOct2024"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="POM_DISPLAYNAME" value="DataDrivenFramework"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase name="loginAsBankManager" classname="testcases.BankManagerLoginTest" time="0.22"/>
+  <testcase name="addCustomer" classname="testcases.AddCustomerTest" time="3.791"/>
+  <testcase name="addCustomer" classname="testcases.AddCustomerTest" time="3.38"/>
+  <testcase name="addCustomer" classname="testcases.AddCustomerTest" time="3.41"/>
+</testsuite>
